@@ -1,3 +1,7 @@
+git clone - (позволяет инициализировать существующий гит реп)
+git remote -v (позовляет просмотреть ссылку на гит реп)
+git remote add [name] [url] (позволяет )
+
 git status
 git add [files]
 git commmit -m 'comment'
